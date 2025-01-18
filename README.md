@@ -1,5 +1,5 @@
 (👷 AREA UNDER RENOVATION)
-# Hello World!, my name is Gus 👋
+# Hello World! My name is Gus 👋
 
 ## I'm learning 📚
 <div>
