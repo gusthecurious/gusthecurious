@@ -4,9 +4,7 @@
 
 ![ramen-tonkotsu](https://github.com/user-attachments/assets/4198f795-446d-45c7-ad44-9cbd0b5383af)
 
-<h2></h2>
-<p></p>
-<h2></h2>
+
 <h2>Linguagens e ferramentas que estou estudando</h2>
 
 <div>
