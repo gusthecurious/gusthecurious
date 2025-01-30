@@ -1,6 +1,6 @@
 (👷 AREA UNDER RENOVATION)
-<h1 align="left">Hello World!</h1>
-<p align="left">My name is Gus 👋</p>
+<h1 align="left">Hello World!, My name is Gus 👋</h1>
+
 
 ![ramen-tonkotsu](https://github.com/user-attachments/assets/4198f795-446d-45c7-ad44-9cbd0b5383af)
 
