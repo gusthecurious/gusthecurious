@@ -1,8 +1,5 @@
-(👷 AREA UNDER RENOVATION)
 <h1 align="left">Hello World!, My name is Gus 👋</h1>
 
-
-![ramen-tonkotsu](https://github.com/user-attachments/assets/4198f795-446d-45c7-ad44-9cbd0b5383af)
 
 
 <h2>Linguagens e ferramentas que estou estudando</h2>
