@@ -1,5 +1,5 @@
 <h1 align="left">Hello World!</h1>
-<p></p>My name is Gus 👋</p>
+<p></p>Eu sou o Gus 👋, um desenvolvedor de software do Brasil</p>
 
 
 
