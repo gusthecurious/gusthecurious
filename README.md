@@ -1,5 +1,7 @@
 <h1 align="left">Hello World!</h1>
-<p></p>Eu sou o Gus 👋, um desenvolvedor de software do Brasil</p>
+<p>Eu sou o Gus 👋, um desenvolvedor de software do Brasil.</p>
+<p>No momento estou estudando Python com foco em back-end,o uso de APIs REST e MYSQ.L</p>
+
 
 
 
