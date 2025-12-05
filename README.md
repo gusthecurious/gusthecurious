@@ -1,6 +1,6 @@
 **<h1 align="left">Hello World!</h1>**
 **<p>Eu sou o Gus 👋, um desenvolvedor de software.</p>**
-**<p>No momento estou estudando Python com foco em backend,o uso de APIs REST e MYSQL.</p>**
+**<p>No momento estou estudando Python com foco em backend,o uso de APIs REST,Docker e MYSQL.</p>**
 
 
 
